@@ -1,0 +1,16 @@
+# Gespeicherte KI-Modelle und Checkpoints
+models/
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Python Environments & Caches
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Falls du ein Web-Frontend integriert hast
+node_modules/
+.next/
